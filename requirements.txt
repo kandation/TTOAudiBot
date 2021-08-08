@@ -1,6 +1,6 @@
 pillow
 opencv-python
-pynput
+pynput==1.6.8
 keyboard
 PyAutoGUI
 mss
